@@ -1,5 +1,8 @@
 # React + Vite
 
+#Project deployed link:
+https://lexi-assignment.onrender.com
+
 #To Run the project locally:
 1. clone it locally on your system or download the zip file.
 2. install dependencies using command "npm install"
