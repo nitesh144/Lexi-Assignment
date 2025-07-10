@@ -1,12 +1,16 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#To Run the project locally:
+1. clone it locally on your system or download the zip file.
+2. install dependencies using command "npm install"
+3. run the project using command "npm run dev"
 
-Currently, two official plugins are available:
+#UI interface of landing page
+![Screenshot 2025-07-10 080333](https://github.com/user-attachments/assets/b5d93b19-5882-4916-99ac-fcd423341755)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#enter the query in input box and click to submit.
 
-## Expanding the ESLint configuration
+![Screenshot 2025-07-10 080400](https://github.com/user-attachments/assets/66b7fd19-c107-473f-92d0-d0621b6282f2)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+on clicking to citation it open the popup pdf  looks like:
+![Screenshot 2025-07-10 080426](https://github.com/user-attachments/assets/9cd47e9f-0474-4fcc-bb1c-a59c57c24a9d)
